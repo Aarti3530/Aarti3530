@@ -13,5 +13,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/AartiKhankul
 [2]: https://www.linkedin.com/in/aarti-khankul-2a562719b/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarti3530)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aarti3530&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
