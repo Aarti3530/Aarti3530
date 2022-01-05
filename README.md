@@ -13,3 +13,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/AartiKhankul
 [2]: https://www.linkedin.com/in/aarti-khankul-2a562719b/
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aarti3530)](https://git.io/streak-stats)
