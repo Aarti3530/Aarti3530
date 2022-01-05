@@ -15,4 +15,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarti3530&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aarti3530&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aarti3530&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
