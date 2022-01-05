@@ -14,4 +14,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/aarti-khankul-2a562719b/
 
 
-[![GitHub Streak](https://github.com/Aarti3530?tab=repositories/?user=Aarti3530)](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/Aarti3530?tab=repositories/?user=Aarti3530)](https://github.com/Aarti3530?tab=repositoriess)
